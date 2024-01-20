@@ -9,6 +9,6 @@
 // console.log(myDate.toLocaleString());
 // console.log(typeof myDate);
 
-let myCreatDate = new Date(2023, 0, 12, 5, 6)
-let myCreatDate = new Date("2022-05-26")
-console.log(myCreatDate.toLocaleString());
+// let myCreatDate = new Date(2023, 0, 12, 5, 6)
+// let myCreatDate = new Date("2022-05-26")
+// console.log(myCreatDate.toLocaleString());
